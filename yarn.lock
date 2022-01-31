@@ -269,6 +269,11 @@ formdata-polyfill@^4.0.10:
   dependencies:
     fetch-blob "^3.1.2"
 
+gitignore@^0.7.0:
+  version "0.7.0"
+  resolved "https://registry.yarnpkg.com/gitignore/-/gitignore-0.7.0.tgz#062173df62344a572dfd76d98b59c45108562739"
+  integrity sha512-6iE891OyeYQYVvdoWI/hcxDWJ0sOngSpIRadxLoYbsnZdqWIUsEfx+IrOpW3d/zWBA/eKYvs6ZZx6ogz2wEGoQ==
+
 has-flag@^3.0.0:
   version "3.0.0"
   resolved "https://registry.yarnpkg.com/has-flag/-/has-flag-3.0.0.tgz#b5d454dc2199ae225699f3467e5a07f3b955bafd"
